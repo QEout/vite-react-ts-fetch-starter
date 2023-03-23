@@ -11,8 +11,9 @@ This is a starter template for a Vite / React / TypeScript / Tailwind CSS / AntD
 - Easy to use
 
 ## Getting Started
-pnpm install
-pnpm dev
+```pnpm install```
+```pnpm dev```
+
 
 ## Build
 pnpm build
